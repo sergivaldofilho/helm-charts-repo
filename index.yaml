@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   myfirstchart:
   - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-04-16T03:18:09.217364983Z"
+    description: Signed Charts
+    digest: f2fe7fcd5021ddd2b6a3807ce4e9965e74de653741bc8eb7c12d46b9f35f826b
+    name: myfirstchart
+    type: application
+    urls:
+    - https://github.com/sergivaldofilho/helm-charts-repo/releases/download/myfirstchart-0.3.0/myfirstchart-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
     appVersion: 0.2.0
     created: "2025-04-16T03:08:07.536897079Z"
     description: Signed Charts
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/sergivaldofilho/helm-charts-repo/releases/download/myfirstchart-0.1.0/myfirstchart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-16T03:08:07.536909552Z"
+generated: "2025-04-16T03:18:09.217377726Z"
